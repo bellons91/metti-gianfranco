@@ -1,4 +1,4 @@
-package com.GroupTest.GroupTest;
+package com.GroupTest.GroupTest.controller;
 
 import org.springframework.web.bind.annotation.RestController;
 
