@@ -1,6 +1,7 @@
 package com.GroupTest.GroupTest.book;
 
+import java.util.ArrayList;
 
 public interface IBookService {
-    public Book getBooks(String cityName);
+    ArrayList<Book> getBooks(String cityName);
 }

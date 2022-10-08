@@ -1,6 +1,7 @@
 package com.GroupTest.GroupTest.controller;
 
 import com.GroupTest.GroupTest.book.Book;
+import com.GroupTest.GroupTest.weather.Weather;
 
 import java.util.ArrayList;
 
